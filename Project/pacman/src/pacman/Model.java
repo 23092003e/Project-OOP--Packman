@@ -8,6 +8,7 @@ import java.awt.event.KeyEvent;
 import javax.swing.ImageIcon;
 import javax.swing.JPanel;
 import javax.swing.Timer;
+//cc
 
 public class Model extends JPanel implements ActionListener {
 
